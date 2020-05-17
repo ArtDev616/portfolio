@@ -8,4 +8,4 @@ _Nuxt.js doesn't supercharge these components._
 
 # How to install
 
-**yarn
+**yarn install
